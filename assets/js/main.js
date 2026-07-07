@@ -1,10 +1,10 @@
 /*-----------------------------------------------------------------
 
-Template Name: Bookle - Book Store WooCommerce Html Template 
+Template Name: ヴォルティックス - Book Store WooCommerce Html Template 
 Author:  Gramentheme
 Author URI: https://themeforest.net/user/gramentheme/portfolio
 Version: 1.0.0
-Description: Bookle - Book Store WooCommerce Html Template  
+Description: ヴォルティックス - Book Store WooCommerce Html Template  
 ------------------------------------------------------------------*/
 /*=================================
    Index Here
